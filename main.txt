@@ -1,2 +1,2 @@
 hello world
-create array
+create array - array
