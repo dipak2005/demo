@@ -1,3 +1,7 @@
 hello world
+<<<<<<< HEAD
 create array
 create stack
+=======
+create array - array
+>>>>>>> array
